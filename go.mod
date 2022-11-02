@@ -1,0 +1,1 @@
+module "bk_plugin_client_go"
