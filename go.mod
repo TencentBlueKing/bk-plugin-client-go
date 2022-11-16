@@ -1,1 +1,1 @@
-module "bk_plugin_client_go"
+module github.com/TencentBlueKing/bk-plugin-client-go

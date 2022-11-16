@@ -1,11 +1,11 @@
 package api
 
 import (
-	"bk_plugin_client_go/core/define"
-	"bk_plugin_client_go/core/utils"
 	"bytes"
 	"encoding/json"
 	"fmt"
+	define "github.com/TencentBlueKing/bk-plugin-client-go/core/define"
+	"github.com/TencentBlueKing/bk-plugin-client-go/core/utils"
 	"io"
 	"net/http"
 )
